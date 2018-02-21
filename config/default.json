@@ -1,5 +1,10 @@
 {
-  "url": "http://ralphsays.github.io",
-  "explicitWaitMS": 2000,
-  "mochaTimeoutMS": 30000
+  "ralphURL": "http://ralphsays.github.io",
+  "demoURL": "http://webdriverjsdemo.github.io",
+  "baseUrl": "https://www.google.com",
+  "explicitWaitMS": 20000,
+  "mochaTimeoutMS": 30000,
+  "afterHookTimeoutMS": 30000,
+  "browser": "chrome",
+  "highlightElements": true
 }
